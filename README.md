@@ -1,0 +1,2 @@
+# -velser
+Øvelser på klassen
